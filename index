@@ -1,31 +1,31 @@
-<!DOCTYPE html>
-<html lang="vi">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Vina Material</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
-    header { background: #007BFF; color: white; padding: 1rem; text-align: center; }
-    section { padding: 2rem; max-width: 800px; margin: auto; background: white; }
-    footer { text-align: center; padding: 1rem; color: #777; font-size: 0.9rem; }
-  </style>
+    <title>Vina Material - Portfolio</title>
 </head>
 <body>
-  <header>
-    <h1>Vina Material</h1>
-    <p>Giải pháp vật liệu chất lượng cao</p>
-  </header>
-  <section>
-    <h2>Giới thiệu</h2>
-    <p>Chúng tôi cung cấp các loại vật liệu chất lượng cao, giá cả cạnh tranh và dịch vụ tận tâm tại Việt Nam.</p>
-
-    <h2>Liên hệ</h2>
-    <p>Email: contact@vinamaterial.com</p>
-    <p>Hotline: 0976 949 186</p>
-  </section>
-  <footer>
-    &copy; 2025 Vina Material. All rights reserved.
-  </footer>
+    <header>
+        <h1>Vina Material</h1>
+        <p>Thành lập năm 2025</p>
+        <p>Với kinh nghiệm quốc tế trong các ngành chế tạo, Vina Material đồng hành cùng sự phát triển trong công nghệ vật liệu Việt Nam.</p>
+    </header>
+    <section>
+        <h2>Sản phẩm/Dịch vụ</h2>
+        <ul>
+            <li>Tư vấn, tìm nhà cung cấp nguyên vật liệu dành cho nhà máy sản xuất.</li>
+            <li>Cung cấp nguyên liệu theo đơn đặt hàng cùng quy trình sử dụng, bảo quản, thu hồi.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Khách hàng và đối tác</h2>
+        <p>Nhật Bản, Đài Loan, Hàn Quốc, Trung Quốc</p>
+    </section>
+    <section>
+        <h2>Dự án tiêu biểu</h2>
+        <p>Liên hệ trực tiếp để biết thêm chi tiết về các dự án và các hợp tác nổi bật.</p>
+    </section>
+    <section>
+        <h2>Thông tin liên hệ</h2>
+        <p>Số điện thoại: 0976949186</p>
+    </section>
 </body>
 </html>
